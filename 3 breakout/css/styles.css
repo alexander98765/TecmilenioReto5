@@ -1,0 +1,14 @@
+.mTop{
+    margin-top: 20px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+canvas {
+    background: #121b3d;
+    display: block;
+    margin: 0 auto;
+}

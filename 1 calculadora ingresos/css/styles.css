@@ -1,0 +1,44 @@
+.step1Title{
+    color:#194192;
+    font-weight: bold;
+    font-size:24px;
+}
+
+.container{
+    margin-top:60px;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 0px;
+
+    background: #194192;
+    border: 2px solid #0054ff;
+    color: #FFF;
+    text-align: center;
+
+    font: 32px Arial, sans-serif;
+}
+
+label{
+    font-weight: bold;
+}
+
+.tblDesg{
+    width:99%;
+}
+
+.textRight{
+    text-align: right;
+}
+
+.borderBottom{
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+}
+
+.bold{
+    font-weight: bold;
+}
